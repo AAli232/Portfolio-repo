@@ -149,3 +149,50 @@ margin: 10px;
 .video-play{
   border-radius: 10px;
 }
+#current-target{
+  display: flex;
+  flex-direction: column;
+}
+.target{
+  margin: 50px;
+  /* padding:20px; */
+}
+.target h2{
+  padding: 20px;
+}
+.target-box{
+  display: flex;
+}
+.target-1{
+  text-align: left;
+  padding: 15px;
+  background-color: rgb(247, 240, 240) ;
+  margin: 15px 20px;
+  border-radius: 16px;
+}
+.img{
+  padding: 20px;
+}
+.target-title{
+  padding: 10px;
+}
+.target-description{
+  padding: 10px;
+}
+.learn-more{
+  padding: 10px;
+}
+.target-2{
+  text-align: left;
+  padding: 15px;
+  background-color: rgb(237, 237, 245);
+  margin: 15px 20px;
+  border-radius: 16px;
+}
+.target-3{
+  text-align: left;
+  padding: 15px;
+  background-color: rgb(243, 243, 230);
+  border-radius: 16px;
+  margin: 15px 20px;
+}
